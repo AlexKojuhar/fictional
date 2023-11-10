@@ -1,5 +1,5 @@
 .env
 wp-content/ai1wm-backups
 vendor
-wp-content/themes/fictional-university-theme/includes
-.DS_Store
+**/.DS_Store
+wp-content/themes/fictional-university-theme/node_modules
