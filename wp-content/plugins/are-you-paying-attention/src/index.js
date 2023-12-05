@@ -3,7 +3,7 @@ import { TextControl, Flex, FlexBlock, FlexItem, Button, Icon, PanelBody, PanelR
 import { InspectorControls, BlockControls, AlignmentToolbar } from "@wordpress/block-editor"
 import { ChromePicker } from "react-color"
 
-;(function () {
+(function () {
   let locked = false
 
   wp.data.subscribe(function () {
